@@ -137,13 +137,13 @@ input[type="submit"]:hover {
   color: white;
 }
 
-/*form:after {
-    content: "";
-    display: table;
-    clear: both;
+form:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
-p {
+/*p {
     font-size: 13px;
     margin: 0 0 0 15px;
 }
