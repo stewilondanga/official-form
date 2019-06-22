@@ -143,12 +143,12 @@ form:after {
   clear: both;
 }
 
-/*p {
-    font-size: 13px;
-    margin: 0 0 0 15px;
+p {
+  font-size: 13px;
+  margin: 0 0 0 15px;
 }
 
-figure {
+/*figure {
     position: absolute;
     color: red;
     font-size: 20px;
