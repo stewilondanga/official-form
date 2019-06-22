@@ -132,12 +132,12 @@ input[type="submit"] {
   transition: all 0.2s;
 }
 
-/*input[type="submit"]:hover {
-    background: grey;
-    color: white;
+input[type="submit"]:hover {
+  background: grey;
+  color: white;
 }
 
-form:after {
+/*form:after {
     content: "";
     display: table;
     clear: both;
