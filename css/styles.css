@@ -31,13 +31,11 @@ body {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-
-
-
+/*
 form {
     width: 710px;
     margin: calc(50vh - 258px) auto;
