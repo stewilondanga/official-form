@@ -148,14 +148,14 @@ p {
   margin: 0 0 0 15px;
 }
 
-/*figure {
-    position: absolute;
-    color: red;
-    font-size: 20px;
-    z-index: 2;
+figure {
+  position: absolute;
+  color: red;
+  font-size: 20px;
+  z-index: 2;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
