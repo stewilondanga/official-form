@@ -122,17 +122,17 @@ input[type="checkbox"]:checked:before {
   color: rgb(50, 50, 50);
 }
 
-/*input[type="submit"] {
-    float: right;
-    padding: 10px;
-    background: none;
-    border: 1px solid grey;
-    margin: -25px 10px 10px 0;
-    cursor: pointer;
-    transition: all 0.2s;
+input[type="submit"] {
+  float: right;
+  padding: 10px;
+  background: none;
+  border: 1px solid grey;
+  margin: -25px 10px 10px 0;
+  cursor: pointer;
+  transition: all 0.2s;
 }
 
-input[type="submit"]:hover {
+/*input[type="submit"]:hover {
     background: grey;
     color: white;
 }
