@@ -41,13 +41,13 @@ form {
   background: #FAFAFA
 }
 
-/*h1 {
-    text-align: center;
-    text-transform: uppercase;
-    padding: 15px;
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  padding: 15px;
 }
 
-h1:after {
+/*h1:after {
     content: "Fill Up the Form to Sign Up";
     font-size: 15px;
     display: block;
