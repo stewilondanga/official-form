@@ -95,11 +95,11 @@ input#email {
   margin-left: 0;
 }
 
-/*.signup__field {
-    margin: 0 0 10px 12px;
+.signup__field {
+  margin: 0 0 10px 12px;
 }
 
-input[type="radio"],
+/*input[type="radio"],
 input[type="checkbox"] {
     -webkit-appearance: none;
     -moz-appearance: none;
