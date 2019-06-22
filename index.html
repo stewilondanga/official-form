@@ -21,6 +21,64 @@
         </a>
     </div>
 
+    <form class="form">
+        <h1>Sign Up</h1>
+        <h2>A) NAME</h2>
+        <div class="signup__field">
+            <label for="first_name" class="label">First name*</label>
+            <input required type="text" id="first_name" maxlength="24" autocomplete="off" autocorrect="off" spellcheck="false" value="an extremely long first">
+        </div>
+        <div class="signup__field">
+            <label for="last_name" class="label">Last name</label>
+            <input type="text" id="last_name" maxlength="24" autocomplete="off" autocorrect="off" spellcheck="false" value="and last name">
+        </div>
+        <h2>B) EMAIL / PASSWORD</h2>
+        <div class="signup__field">
+            <label for="email" class="label">Email address*</label>
+            <input type="text" id="email" required maxlength="27" autocomplete="off" autocorrect="off" spellcheck="false" value="name@email.com">
+        </div>
+        <div class="signup__field">
+            <label for="password" class="label">Password*</label>
+            <input type="text" id="password" required maxlength="24" autocomplete="off" autocorrect="off" spellcheck="false" value=":-\">
+        </div>
+        <h2>C) FAVORITES</h2>
+        <div class="signup__field">
+            <span>What's your favorite color?</span>
+            <input type="radio" value="red" id="color_red" name="color">
+            <label for="color_red">Red</label>
+            <input type="radio" value="orange" id="color_orange" name="color">
+            <label for="color_orange">Orange</label>
+            <input type="radio" value="yellow" id="color_yellow" name="color">
+            <label for="color_yellow">Yellow</label>
+            <input type="radio" value="green" id="color_green" name="color">
+            <label for="color_green">Green</label>
+            <input type="radio" checked value="blue" id="color_blue" name="color">
+            <label for="color_blue">Blue</label>
+            <input type="radio" value="purple" id="color_purple" name="color">
+            <label for="color_purple">Purple</label>
+        </div>
+        <div class="signup__field">
+            <span>What's your favorite Ninja Turtle?</span>
+            <input type="radio" value="leo" id="nt_leo" name="ninja_turtle">
+            <label for="nt_leo">Leo</label>
+            <input type="radio" checked value="leo" id="nt_mikey" name="ninja_turtle">
+            <label for="nt_mikey">Mikey</label>
+            <input type="radio" value="donnie" id="nt_donnie" name="ninja_turtle">
+            <label for="nt_donnie">Donnie</label>
+            <input type="radio" value="raph" id="nt_raph" name="ninja_turtle">
+            <label for="nt_raph">Raph</label>
+        </div>
+        <h2>D) MORE INFORMATION</h2>
+        <div class="signup__field">
+            <input checked type="checkbox" id="amazing" name="amazing">
+            <label for="amazing">I'm amazing</label>
+        </div>
+        <p>Fields marked with an * are required</p>
+        <div class="signup__button">
+            <input value="SIGNUP" type="submit">
+        </div>
+    </form>
+
   <section id="contact">
     <div class="overlay">
       <div class="containers">
