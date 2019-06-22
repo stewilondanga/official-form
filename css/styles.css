@@ -35,14 +35,13 @@ body {
   height: 1.5em;
 }
 
-/*
 form {
-    width: 710px;
-    margin: calc(50vh - 258px) auto;
-    background: #FAFAFA
+  width: 710px;
+  margin: calc(50vh - 258px) auto;
+  background: #FAFAFA
 }
 
-h1 {
+/*h1 {
     text-align: center;
     text-transform: uppercase;
     padding: 15px;
