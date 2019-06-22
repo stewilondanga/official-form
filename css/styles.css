@@ -54,20 +54,20 @@ h1:after {
   margin: 5px 0 0;
 }
 
-/*h1:before {
-    content: "Serial No.\A 0123456";
-    white-space: pre;
-    position: absolute;
-    top: 15px;
-    right: 15px;
-    font-size: 17px;
-    color: #b71c1c;
-    text-align: right;
-    line-height: 1.3;
-    font-weight: 400;
+h1:before {
+  content: "Serial No.\A 0123456";
+  white-space: pre;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  font-size: 17px;
+  color: #b71c1c;
+  text-align: right;
+  line-height: 1.3;
+  font-weight: 400;
 }
 
-h2 {
+/*h2 {
     font-size: 13px;
     display: block;
     background: grey;
