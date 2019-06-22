@@ -11,6 +11,10 @@
   font-weight: 300;
 }
 
+*:focus {
+  outline: none;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -35,9 +39,6 @@
 }
 
 
-*:focus {
-    outline: none;
-}
 
 body {
     overflow: hidden;
