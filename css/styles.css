@@ -99,19 +99,19 @@ input#email {
   margin: 0 0 10px 12px;
 }
 
-/*input[type="radio"],
+input[type="radio"],
 input[type="checkbox"] {
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    appearance: none;
-    width: 15px;
-    height: 15px;
-    border: 1px solid grey;
-    margin: 0 1px -1px 12px;
-    background:white
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  width: 15px;
+  height: 15px;
+  border: 1px solid grey;
+  margin: 0 1px -1px 12px;
+  background: white
 }
 
-input[type="radio"]:checked:before,
+/*input[type="radio"]:checked:before,
 input[type="checkbox"]:checked:before {
     content: "✓";
     position: absolute;
