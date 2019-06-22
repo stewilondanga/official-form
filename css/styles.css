@@ -89,13 +89,13 @@ input[type="text"] {
   margin-left: 5px;
 }
 
-/*input#email {
-    width: 645px;
-    margin-top: 5px;
-    margin-left: 0;
+input#email {
+  width: 645px;
+  margin-top: 5px;
+  margin-left: 0;
 }
 
-.signup__field {
+/*.signup__field {
     margin: 0 0 10px 12px;
 }
 
